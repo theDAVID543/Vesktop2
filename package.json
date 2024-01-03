@@ -1,5 +1,5 @@
 {
-    "name": "VencordDesktop",
+    "name": "VencordDesktop2",
     "version": "0.4.4",
     "private": true,
     "description": "",
@@ -61,7 +61,7 @@
         "pnpm": ">=8"
     },
     "build": {
-        "appId": "dev.vencord.desktop",
+        "appId": "dev.vencord.desktop2",
         "productName": "Vesktop",
         "files": [
             "!*",
